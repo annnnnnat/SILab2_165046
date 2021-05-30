@@ -1,4 +1,6 @@
 # SILab2_165046
+![CFG_function](https://user-images.githubusercontent.com/58486697/120121021-875f5780-c1a1-11eb-9407-9f64de7de42b.png)
+
 
 1. Цикломатската комплексност
 #Nodes = 21
