@@ -2,10 +2,10 @@
 ![CFG_function](https://user-images.githubusercontent.com/58486697/120121021-875f5780-c1a1-11eb-9407-9f64de7de42b.png)
 
 
-1. Цикломатската комплексност
-#Nodes = 22
-#Edges = 29
-#Regions = 9
+1. Цикломатската комплексност  
+#Nodes = 22  
+#Edges = 29  
+#Regions = 9  
 
 CC= E-N+2 = 29-22+2 = 9
 CC = P+1 = 8+1 = 9
