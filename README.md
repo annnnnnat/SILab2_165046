@@ -4,12 +4,12 @@
 
 1. Цикломатската комплексност
 #Nodes = 22
-#Edges = 28
-#Regions = 8
+#Edges = 29
+#Regions = 9
 
-CC= E-N+2 = 28-22+2 = 8
-CC = P+1 = 7+1 = 8
-CC = R = 8
+CC= E-N+2 = 29-22+2 = 9
+CC = P+1 = 8+1 = 9
+CC = R = 9
 
 2.Multiple condition критериумот
 2.1 hr < 0 || hr > 24
