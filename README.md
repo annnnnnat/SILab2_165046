@@ -38,10 +38,21 @@ T && T && F -> hr=24,min=0,sec!=0
 T && T && T -> hr=24,min=0,sec=0  
   
 3.Every branch критериум  
-timeList={ (hr=-1,min=anything,sec=anything))}  
-timeList={ (hr=25,min=anything,sec=anything)}	  
-timeList={ (hr=20,min=62,sec=anything)}	  
-timeList={ (hr=20,min=40,sec=-20)}	  
-timeList={ (hr=20,min=40,sec=10),(hr=24,min=0,sec=0)}	  
+Branches: 3.2-4,5-6,6-7  
+timeList={ (hr=-1,min=anything,sec=anything))} 
+  
+Branches: 3.2-4,5-6,6-8  
+timeList={ (hr=25,min=anything,sec=anything)}
+  
+Branches: 3.2-4,5-9,9-10,10-11	  
+timeList={ (hr=20,min=62,sec=anything)}	
+  
+Branches: 3.2-4,5-9,9-10,10-12,12-14   
+timeList={ (hr=20,min=40,sec=-20)}  
+  
+Branches: 3.2-4,3.2-20,5-9,9-10,10-12,12-13,15-16,17-20
+timeList={ (hr=20,min=40,sec=10),(hr=24,min=0,sec=0)}  
+  
+Branches: 3.2-4,5-9,9-15,15-17,17-18  	  
 timeList={ (hr=24,min>0,sec>0)}  
   
